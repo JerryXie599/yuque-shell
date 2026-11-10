@@ -1,0 +1,12 @@
+# Data & Cache
+data/
+*.db
+*.log
+*.bin
+*.zip
+*.tar.gz
+*.exe
+
+# OS
+.DS_Store
+Thumbs.db
